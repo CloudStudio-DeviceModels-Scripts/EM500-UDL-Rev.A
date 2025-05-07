@@ -25,7 +25,7 @@ function getEndpoints(deviceAddress, endpoints)
 
     endpoints.addEndpoint("1", "Battery", endpointType.voltageSensor);
     var distance = endpoints.addEndpoint("2", "Distance", endpointType.genericSensor);
-    distance.variableTypeId = 1300;
+    distance.variableTypeId = 1276;
 }
 
 function validateDeviceAddress(address, result)
