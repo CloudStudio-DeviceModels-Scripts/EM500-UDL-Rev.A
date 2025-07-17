@@ -1,7 +1,7 @@
 
-# Parsing + Configuration Script – EM500-UDL - Rev. A
+# Parsing + Configuration Script – EM500-UDL  - Rev. A
 
-This **Parsing + Configuration** script is designed for the **EM500-UDL** model in **Gear Studio**, part of the [Cloud Studio](https://www.cloud.studio/) platform.
+This **Parsing + Configuration** script is designed for the **EM500-UDL ** model in **Gear Studio**, part of the [Cloud Studio](https://www.cloud.studio/) platform.
 
 ## 🧩 Script Type
 
@@ -31,9 +31,9 @@ These functions enable extended integration capabilities in Cloud Studio, suppor
 
 ---
 
-# Script de Parsing + Configuration – EM500-UDL Rev. A
+# Script de Parsing + Configuration – EM500-UDL  Rev. A
 
-Este script de **Parsing + Configuration** está diseñado para el modelo **EM500-UDL** en **Gear Studio**, parte de la plataforma [Cloud Studio](https://www.cloud.studio/).
+Este script de **Parsing + Configuration** está diseñado para el modelo **EM500-UDL ** en **Gear Studio**, parte de la plataforma [Cloud Studio](https://www.cloud.studio/).
 
 ## 🧩 Tipo de Script
 
